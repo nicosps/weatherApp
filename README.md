@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+## How to Run the App
+On terminal / cmd, type this command : flutter pub get
+
+## How to run the mobile App
+On terminal / cmd, type this command : flutter run or press F5 to run the debug mode
+
+## How to build the apk
+On terminal / cmd, type this command : flutter build apk
+
+The apk result is on the folder : root_project/build/app/outputs/flutter-apk/app-release.apk
+
+## Notes
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
